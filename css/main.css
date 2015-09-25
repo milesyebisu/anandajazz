@@ -7,6 +7,12 @@
     color: white;
 }
 
+.pageheadings {
+    float:right;
+    text-align:center;
+    color: white;
+}
+
 .body {
     text-align: center;
 }
