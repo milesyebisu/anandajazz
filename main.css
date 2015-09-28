@@ -3,11 +3,12 @@ body
     background: black !important;
 }
 
-.copyright {
-    font-size: medium;
-    margin-top: 50px;
-    margin-bottom: 0px;
-    padding: 0px;
-    text-align: center;
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.whitetext {
     color: white;
 }
